@@ -26,8 +26,6 @@ You can set a hotkey or use a File Action to prettify `.json` files in place. No
 
 # About
 
-This workflow is unaffiliated with nor endorsed by Brandfetch.
-
 Thanks to [deanishe](https://github.com/deanishe) for his help in [rewriting the script](https://www.alfredforum.com/topic/16946-help-improving-a-json-file-prettifier-workflow/?do=findComment&comment=86985) to support multiple JSON files the _correct_ way.
 
 Discuss on <a href="https://www.alfredforum.com/topic/16946-help-improving-a-json-file-prettifier-workflow/">Alfred Forum</a>.
