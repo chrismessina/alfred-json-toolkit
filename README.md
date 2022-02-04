@@ -18,6 +18,9 @@ You can set a hotkey or use a File Action to prettify `.json` files in place. No
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.2] - 2022-02-04
+- Fix OneUpdater and add `/source` directory to repo
+
 ## [v0.1.1] - 2021-05-28
 - Rewrite Python to properly support multiple files.
 
